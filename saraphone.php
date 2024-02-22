@@ -409,17 +409,9 @@ echo "</script> \n";
 	echo "                                        <div class=\"row\"> \n";
 	echo "                                            <div class=\"col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12\" style=\"color: #808080\"> \n";
 	echo "                                                <br/> \n";
-	echo "                                                <i>SaraPhone WebRTC</i> \n";
+	echo "                                                <i>SaraPhone WebRTC</i> by Giobanni Maruzzelli of OpenTelecom.IT \n";
 	echo "                                            </div> \n";
 	echo "                                        </div> \n";
-	// copyright
-	echo "                                        <div class=\"row\"> \n";	
-	echo "                                            <div align=\"center\" class=\"inner\" style=\"color: #808080\"> \n";
-	echo "                                                <p>2020 \n";
-	echo "                                                <br/>Giovanni Maruzzelli - OpenTelecom.IT</p> \n";
-	echo "                                           </div> \n";
-	echo "                                       </div> \n";
-	//	
 	echo "                                    </div> \n";
 	echo "                                </div> \n";
 	echo "                            </div> \n";	
@@ -479,16 +471,9 @@ echo "</script> \n";
 	echo "                                        <div class=\"row\"> \n";
 	echo "                                            <div class=\"col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12\" style=\"color: #808080\"> \n";
 	echo "                                                <br/> \n";
-	echo "                                                <i>SaraPhone WebRTC</i> \n";
+	echo "                                                <i>Powered by SaraPhone WebRTC</i> By Giovanni Maruzzelli of OpenTelecom.IT";
 	echo "                                            </div> \n";
 	echo "                                        </div> \n";
-	// copyright
-	echo "                                        <div class=\"row\"> \n";	
-	echo "                                            <div align=\"center\" class=\"inner\" style=\"color: #808080\"> \n";
-	echo "                                                <p>2020 \n";
-	echo "                                                <br/>Giovanni Maruzzelli - OpenTelecom.IT</p> \n";
-	echo "                                           </div> \n";
-	echo "                                       </div> \n";
 
 	echo "                                    </div> \n";
 	echo "                                </div> \n";
